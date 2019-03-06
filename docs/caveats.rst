@@ -8,6 +8,6 @@ Caveats
    Some internal objects are world writable!
 
 .. note::
-    If you want to use before this library will have implemented
+    If you want to use this library before it have implemented
     authenticating/authorization subsystem you can use nginx/apache/your web server
     .htaccess-like rules by limiting access to the ``/business_logic/`` url path.

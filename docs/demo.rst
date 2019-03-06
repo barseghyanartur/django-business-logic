@@ -3,7 +3,7 @@ Demo application
 
 Description
 -----------
-Demo application is a simple bookshelf with following models:
+Demo application is a simple bookshelf with the following models:
 
 .. automodule:: sites.dev.books.models
     :members:
